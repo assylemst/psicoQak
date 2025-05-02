@@ -1,0 +1,25 @@
+.card-section {
+    background-color: #fff;
+    padding: 1.5rem;
+    border-radius: 10px;
+    box-shadow: 0 3px 8px rgba(0,0,0,0.1);
+    margin-bottom: 2rem;
+    transition: transform 0.2s ease;
+  }
+  
+  .card-section:hover {
+    transform: scale(1.02);
+  }
+  
+  .card-section h2 {
+    color: #4CAF50;
+    margin-top: 0;
+    border-left: 5px solid #4CAF50;
+    padding-left: 0.5rem;
+  }
+  
+  .card-section ul {
+    list-style-type: disc;
+    padding-left: 1.5rem;
+  }
+  
